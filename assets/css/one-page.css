@@ -1,0 +1,14 @@
+.header{
+	background: url('../images/patternbg.jpg');
+	#opacity: .1;
+	#background: #f3f3f3;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	color: #000000;
+	text-transform: uppercase;
+}
+
+
